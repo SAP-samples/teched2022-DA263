@@ -1,12 +1,14 @@
-# Session ID - Session Title
+# DA263 - Interactive Stochastic Simulations for Exploring and Adapting to Uncertainty (Business Decision Simulator)
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2022 session called DA263 - Interactive Stochastic Simulations for Exploring and Adapting to Uncertainty (Business Decision Simulator)
 
 ## Overview
 
 This session introduces attendees to...
+
+In the times of uncertainty, forecasts based on historical data may no longer be valid. In such cases, many companies including SAP, use stochastic simulations to estimate probabilities of possible future outcomes. In this session, we will leverage a real-world customer use case to show an interactive technique that combines Monte Carlo simulations with visualizations and machine guided inferences to allow decision makers and planners to respond to uncertainty. The feature may get offered through SAC for cross LOB planning simulations.
 
 ## Requirements
 
