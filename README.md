@@ -17,8 +17,8 @@ The requirements to follow the exercises in this repository are...
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Getting Started](exercises/ex0/)
-- [Exercise 1 - Login to SAP Analytics Cloud and explore the data set(exercises/ex1/)
-    - [Exercise 1.1 - Login to SAP Analytics Cloud (exercises/ex1#exercise-11-login-to-sap-analytics-cloud)
+- [Exercise 1 - Login to SAP Analytics Cloud and explore the data set](exercises/ex1/)
+    - [Exercise 1.1 - Login to SAP Analytics Cloud](exercises/ex1#exercise-11-login-to-sap-analytics-cloud)
     - [Exercise 1.2 - Explore the data set](exercises/ex1#exercise-12-explore-the-data-set)
 - [Exercise 2 - Launch Business Decision Simulator and upload model](exercises/ex2/)
     - [Exercise 2.1 - Upload or load the data model to Business Decision Simulator](exercises/ex2#exercise-21-upload-or-load-the-data-model-to-business-decision-simulator)
