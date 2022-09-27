@@ -1,40 +1,31 @@
-# Exercise 1 - Exercise 1 Description
+# Exercise 1 - Login to SAP Analytics Cloud and explore the data set
 
-In this exercise, we will create...
+In this exercise, we will explore the data set in SAP Analytics Cloud.
 
-## Exercise 1.1 Sub Exercise 1 Description
+## Exercise 1.1 Login to SAP Analytics Cloud
 
-After completing these steps you will have created...
+After completing these steps you will have access to the SAP Analytics Cloud.
 
-1. Click here.
+1. Create a SAP Analytics Cloud account.
 <br>![](/exercises/ex1/images/01_01_0010.png)
 
-2.	Insert this line of code.
+2.	Login.
 ```abap
 response->set_text( |Hello World! | ). 
 ```
 
 
 
-## Exercise 1.2 Sub Exercise 2 Description
+## Exercise 1.2 Explore the data set 
 
-After completing these steps you will have...
+After completing these steps you will have an understanding of the data set which will be used in this session.
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
+1.	Observe the dashboard and answer the following questions:
+- Which KPIs that can be simulated?
 
-```
 
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
 
+(Optional) If no data set is uploaded yet, use the upload button to upload the .csv file stored here <br>![](/exercises/ex1/images/01_02_0010.png)
 
 ## Summary
 
