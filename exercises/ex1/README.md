@@ -7,12 +7,10 @@ In this exercise, we will explore the data set in SAP Analytics Cloud.
 After completing these steps you will have access to the SAP Analytics Cloud.
 
 1. Create a SAP Analytics Cloud account.
-<br>![](/exercises/ex1/images/01_01_0010.png)
+
 
 2.	Login.
-```abap
-response->set_text( |Hello World! | ). 
-```
+
 
 
 
@@ -25,7 +23,7 @@ After completing these steps you will have an understanding of the data set whic
 
 
 
-(Optional) If no data set is uploaded yet, use the upload button to upload the .csv file stored here <br>![](/exercises/ex1/images/01_02_0010.png)
+(Optional) If no data set is uploaded yet, use the upload button to upload the .csv file stored here
 
 ## Summary
 
