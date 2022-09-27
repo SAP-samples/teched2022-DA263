@@ -25,7 +25,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 2.2 - Create new node with link](exercises/ex2#exercise-22-create-new-node-with-link)
 - [Exercise 3 - Run simulation and readjust influencing parameters]()
 - [Exercise 4 - Optimize outcome or compare outcomes]()
-- [Exercise 5 - Come back to SAP Analytics Cloud and compare the KPI]
+- [Exercise 5 - Come back to SAP Analytics Cloud and compare the KPI]()
 
   
 **OR** Link to the Tutorial Navigator for example...
