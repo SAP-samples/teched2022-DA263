@@ -29,5 +29,5 @@ After completing these steps you will have an understanding of the data set whic
 
 You've now ...
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Exercise 2 - Launch Business Decision Simulator and upload model](../ex2/README.md)
 

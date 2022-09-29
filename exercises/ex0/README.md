@@ -22,5 +22,5 @@ After completing these steps you will have....
 
 ## Summary
 
-Now that you have ... 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Now that you have set up everything for this session. Let's start!
+Continue to - [Exercise 1 - Login to SAP Analytics Cloud and explore the data set](../ex1/README.md)
