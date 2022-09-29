@@ -23,9 +23,9 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 2 - Launch Business Decision Simulator and upload model](exercises/ex2/)
     - [Exercise 2.1 - Upload or load the data model to Business Decision Simulator](exercises/ex2#exercise-21-upload-or-load-the-data-model-to-business-decision-simulator)
     - [Exercise 2.2 - Create new node with link](exercises/ex2#exercise-22-create-new-node-with-link)
-- [Exercise 3 - Run simulation and readjust influencing parameters]()
-- [Exercise 4 - Optimize outcome or compare outcomes]()
-- [Exercise 5 - Come back to SAP Analytics Cloud and compare the KPI]()
+- [Exercise 3 - Run simulation and readjust influencing parameters](exercises/ex3#exercise-3---run-simulation-and-readjust-influencing-parameters)
+- [Exercise 4 - Optimize outcome or compare outcomes](exercises/ex4#exercise-4---optimize-outcome-or-compare-outcomes)
+- [Exercise 5 - Come back to SAP Analytics Cloud and compare the KPI](exercises/ex5#exercise-5----come-back-to-sap-analytics-cloud-and-compare-the-kpi)
 
   
 **OR** Link to the Tutorial Navigator for example...
