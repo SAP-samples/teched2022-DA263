@@ -5,7 +5,9 @@
 This repository contains the material for the SAP TechEd 2022 session called DA263 - Interactive Stochastic Simulations for Exploring and Adapting to Uncertainty (Business Decision Simulator).
 
 ## Overview
-In this session, we will leverage SAP Ariba Category Management, an application that provides an solution with actionable market intelligence and category insights for category managers and strategic procurement professionals, using  Business Decision Simulator that combines Monte Carlo simulations with visualizations and machine guided inferences. Category managers will be able to perform What-if simulation against different input variables and uncertainties to allow them responding to uncertainty. We will simulate Net Savings for the packaging category based on various cost components that contribute to the total category spend, such as energy prices, material, and external uncertainties, e.g., GDP (Gross Domestic Product), PPI (Producer Price Index), Market Benchmarks etc.
+In this session, we will leverage SAP Ariba Category Management, an application that provides an solution with actionable market intelligence and category insights for category managers and strategic procurement professionals, using  Business Decision Simulator. Business Decision Simulator combines Monte Carlo simulations with visualizations and machine guided inferences to allow decision makers and planners to respond to uncertainty. 
+
+In our use case, category managers will be able to perform What-if simulation against different input variables and uncertainties to allow them responding to uncertainty. We will simulate Net Savings for the packaging category based on various cost components that contribute to the total category spend, such as energy prices, material, and external uncertainties, e.g., GDP (Gross Domestic Product), PPI (Producer Price Index), Market Benchmarks etc.
 
 In this hands-on workshop you will:
 - Learn how to ...
