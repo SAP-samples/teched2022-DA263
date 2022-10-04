@@ -2,19 +2,27 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called DA263 - Interactive Stochastic Simulations for Exploring and Adapting to Uncertainty (Business Decision Simulator)
+This repository contains the material for the SAP TechEd 2022 session called DA263 - Interactive Stochastic Simulations for Exploring and Adapting to Uncertainty (Business Decision Simulator).
 
 ## Overview
+In this session, we will leverage SAP Ariba Category Management, an application that provides an solution with actionable market intelligence and category insights for category managers and strategic procurement professionals, using  Business Decision Simulator that combines Monte Carlo simulations with visualizations and machine guided inferences. Category managers will be able to perform What-if simulation against different input variables and uncertainties to allow them responding to uncertainty. We will simulate Net Savings for the packaging category based on various cost components that contribute to the total category spend, such as energy prices, material, and external uncertainties, e.g., GDP (Gross Domestic Product), PPI (Producer Price Index), Market Benchmarks etc.
 
-In the times of uncertainty, forecasts based on historical data may no longer be valid. In such cases, many companies including SAP, use stochastic simulations to estimate probabilities of possible future outcomes. In this session, we will leverage a real-world customer use case to show an interactive technique that combines Monte Carlo simulations with visualizations and machine guided inferences to allow decision makers and planners to respond to uncertainty. The feature may get offered through SAC for cross LOB planning simulations.
+In this hands-on workshop you will:
+- Learn how to ...
+
+
 
 ## Requirements
+Good news! For this exercise, there is no need to set up a complex environment. You just need: 
 
-The requirements to follow the exercises in this repository are...
+- Any web browser
+- Access to this GitHub repository 
+- Access to SAP Analytics Cloud
+- (Optional) You might need to download a set of files from the GitHub site: .... Once downloaded to your local machine, please unzip the file.
 
 ## Exercises
-
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+This session comprises of five exercises.
+After completing the series, you might be interested in learning more about the Business Decision Simulator in general.
 
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 - Login to SAP Analytics Cloud and explore the data set](exercises/ex1/)
@@ -32,9 +40,6 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 
 Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
 
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## How to obtain support
 
