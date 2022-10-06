@@ -1,42 +1,49 @@
-# Exercise 2 - Launch Business Decision Simulator and upload model
+# Exercise 2 - Launch Business Decision Simulator and run simulations
 
-In this exercise, we will 
+Duration: approx. 15 minutes
+
+In this exercise, we will run simulations in Business Decision Simulator to analyze how different influencers impacts the probability of certain scenarios.
+After completing these steps you will have run several simulations and have the respective probabilities of the outcomes.
 
 
-After completing these steps you will have created...
+## Exercise 2.1 Load the simulation model into Business Decision Simulator.
+1. In [Business Decision Simulator](https://budesi-techedsac-da263.cfapps.eu12.hana.ondemand.com/) open the modelling view.
+![](/exercises/ex2/images/ex2_1_1.png)
+
+2. Navigate to  **Models** tab and load the simulation model "XXX". //ADD NAME //NO MODEL AT THE MOMENT
+![](/exercises/ex2/images/ex2_1_2.png)
 
 
-## Exercise 2.1 Upload or load the data model to Business Decision Simulator.
 
-1. In your web browser, open the [Business Decision Simulator](https://budesi-spend-connect.cfapps.eu12.hana.ondemand.com/?mid=spend_connect_-_packaging).
+> In case the model is not imported in the system, please follow the instructions below to upload it manually. 
+> - In the modelling view, navigate to "Models" tab and use the import functionality
+![](/exercises/ex2/images/ex2_1_3.png)
+> - Navigate to downloaded file on your local environment abd open file to upload.
+![](/exercises/ex2/images/ex2_1_5.png)
+> - Save the simulation model. The simulation model is successfully imported when it 
+is listed under "Models"
+![](/exercises/ex2/images/ex2_1_4.png)
 
-2. Navigate to the modelling view by clicking the **Modelling** button.
 
-3. To select the model which should be uploaded, navigate to  **Models** tab -> click **load** button of model "spend_connect_-packaging".
+## Exercise 2.2 Change value of influencer and run simulations
 
-(Optional) In case the model is not already uploaded in the system, please follow the instructions below to upload it manually. 
+1. Adjust data range of the "Base Resin - PPI Coefficient" influencer to 0.3 by entering the value in the text field //FIND AND ADD VALUES
+![](/exercises/ex2/images/ex2_2_1.png)
 
-1. Download model in ...
+2. Run the simulation.
+![](/exercises/ex2/images/ex2_2_2.png)
 
-2. In your web browser, open the [Business Decision Simulator](https://budesi-spend-connect.cfapps.eu12.hana.ondemand.com/?mid=spend_connect_-_packaging).
 
-3. Navigate to the modelling view by clicking the **Modelling** button.
+3. The simulation is now executed and the results are displayed. Explore the details of the scenarios by expanding **Details** section.
+![](/exercises/ex2/images/ex2_2_3.png)
 
-4. Navigate to  **Models** tab -> click **Import** button -> Navigate to downloaded file on your local environment-> Select file and upload by clicking **Open** button
 
-## Exercise 2.2 Create new node with link
+4. Take a moment to view the results. What do you think?
 
-1. From the modelling view, navigate to the **Control** tab.
+## Exercise 2.3. Play around with the simulator
+1. Now, it is time to play around with the simulation capabilities. Adjust the values of the influencers as you like, re-run the simulation and observe the outcome.
+![](/exercises/ex2/images/ex2_3_1.png)
 
-2. To create a new node, select "Add Node" in the Action drop-down menu.
-
-3. Add a node label by entering "GDP" in the text field "Label"
-
-4. Define the type of the node by selecting "sum" in the drop down menu.
-
-5. Create a link to another node, select the "XXX" node in the drop-down menu.
-
-5. Create a new linked node by clicking **Add** button.
 
 
 

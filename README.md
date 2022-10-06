@@ -13,7 +13,6 @@ In this hands-on workshop you will:
 - Learn how to ...
 
 
-
 ## Requirements
 Good news! For this exercise, there is no need to set up a complex environment. You just need: 
 
@@ -26,7 +25,8 @@ Good news! For this exercise, there is no need to set up a complex environment. 
 This session comprises of five exercises.
 After completing the series, you might be interested in learning more about the Business Decision Simulator in general.
 
-- [Getting Started](exercises/ex0/)
+DISCLAIMER: The screens in the exercises might slightly differ from the screens you will see in the session. 
+
 - [Exercise 1 - Login to SAP Analytics Cloud and explore the data set](exercises/ex1/)
     - [Exercise 1.1 - Login to SAP Analytics Cloud](exercises/ex1#exercise-11-login-to-sap-analytics-cloud)
     - [Exercise 1.2 - Explore the data set](exercises/ex1#exercise-12-explore-the-data-set)
@@ -36,12 +36,6 @@ After completing the series, you might be interested in learning more about the 
 - [Exercise 3 - Run simulation and readjust influencing parameters](exercises/ex3#exercise-3---run-simulation-and-readjust-influencing-parameters)
 - [Exercise 4 - Optimize outcome or compare outcomes](exercises/ex4#exercise-4---optimize-outcome-or-compare-outcomes)
 - [Exercise 5 - Come back to SAP Analytics Cloud and compare the KPI](exercises/ex5#exercise-5----come-back-to-sap-analytics-cloud-and-compare-the-kpi)
-
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
 
 ## How to obtain support
 
