@@ -1,21 +1,20 @@
-# Exercise 4 - Optimize outcome or compare outcomes
+# Exercise 4 - Optimize outcome
 
-In this exercise, we will 
+Duration: approx. 15 minutes
 
-## Exercise 4.1 Optimization
+In this exercise, we will explore the optimization actions suggested by the system.
+After completing these steps you will have applied one optimization action to your simulation results.
 
-After completing these steps you will have created...
+## Exercise 4.1 Optimize outcome by evaluating the optimization actions
 
-1. ...
+1. Expand to the optimization action section see
+![](/exercises/ex4/images/ex4_1_1.png) //REPLACE
 
-
-## OR Exercise 4.2 Compare results e.g. from 2022 with 2023
-After completing these steps you will have ...
-
-1.	Open a new tab for comparison.
+1. Manipulate the factor.
+![](/exercises/ex4/images/ex4_1_1.png) //REPLACE
 
 ## Summary
 
-You've now ...
+You've now further optimized the probabilities of the outcomes.
 
 Continue to - [Exercise 5 - Come back to SAP Analytics Cloud and compare the KPI](../ex5/README.md)

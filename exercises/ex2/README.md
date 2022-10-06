@@ -20,21 +20,21 @@ After completing these steps you will have run several simulations and have the 
 ![](/exercises/ex2/images/ex2_1_3.png)
 > - Navigate to downloaded file on your local environment abd open file to upload.
 ![](/exercises/ex2/images/ex2_1_5.png)
-> - Save the simulation model. The simulation model is successfully imported when it 
-is listed under "Models"
+> - Name the simulation model XXX and save it. The simulation model is successfully imported when it 
+is listed under "Models".
 ![](/exercises/ex2/images/ex2_1_4.png)
 
 
 ## Exercise 2.2 Change value of influencer and run simulations
 
-1. Adjust data range of the "Base Resin - PPI Coefficient" influencer to 0.3 by entering the value in the text field //FIND AND ADD VALUES
+1. Adjust data range of the "Base Resin - PPI Coefficient" influencer to 0.3 by entering the value in the text field. //FIND AND ADD VALUES
 ![](/exercises/ex2/images/ex2_2_1.png)
 
 2. Run the simulation.
 ![](/exercises/ex2/images/ex2_2_2.png)
 
 
-3. The simulation is now executed and the results are displayed. Explore the details of the scenarios by expanding **Details** section.
+3. The simulation is now executed and the results are displayed. Explore the details of the scenarios by expanding "Details" section.
 ![](/exercises/ex2/images/ex2_2_3.png)
 
 
@@ -45,10 +45,8 @@ is listed under "Models"
 ![](/exercises/ex2/images/ex2_3_1.png)
 
 
-
-
 ## Summary
 
-You've now ...
+You've now run your first simulations.
 
-Continue to - [Exercise 3 - Run simulation and readjust influencing parameters](../ex3/README.md)
+Continue to - [Exercise 3 - Add a new node](../ex3/README.md)

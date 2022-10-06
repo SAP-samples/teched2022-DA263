@@ -2,8 +2,7 @@
 
 Duration: approx. 10 minutes
 
-In this exercise, we will login to SAP Analytics Cloud to explore the data set.
-After the exercise, you will have an understanding of the data set which will be used in this session.
+In this exercise, we will login to SAP Analytics Cloud to explore the data set of our use case. After the exercise, you will have an understanding of the data set which will be used in this session.
 
 ## Exercise 1.1 Login to SAP Analytics Cloud
 1. Log in with your assigned user ID "DA263-XXX" in [SAP Analytics Cloud](https://tdcteched1.accounts.ondemand.com/saml2/idp/sso/tdcteched1.accounts.ondemand.com).
@@ -41,7 +40,7 @@ After the exercise, you will have an understanding of the data set which will be
 
 ## Summary
 
-You are now aware of the current situation of the saving rates. It does not look good and you want to know why. To answer this question use stochastic simulations.
+You are now aware of the current situation of the saving amount. 
 
 Continue to - [Exercise 2 - Launch Business Decision Simulator and upload model](../ex2/README.md)
 

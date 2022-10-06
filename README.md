@@ -5,12 +5,14 @@
 This repository contains the material for the SAP TechEd 2022 session called DA263 - Interactive Stochastic Simulations for Exploring and Adapting to Uncertainty (Business Decision Simulator).
 
 ## Overview
-In this session, we will leverage SAP Ariba Category Management, an application that provides an solution with actionable market intelligence and category insights for category managers and strategic procurement professionals, using  Business Decision Simulator. Business Decision Simulator combines Monte Carlo simulations with visualizations and machine guided inferences to allow decision makers and planners to respond to uncertainty. 
+This session allows you to experience how an interactive technique that combines Monte Carlo simulations with visualizations and machine guided inferences allows decision makers and planners to respond to uncertainty.
 
-In our use case, category managers will be able to perform What-if simulation against different input variables and uncertainties to allow them responding to uncertainty. We will simulate Net Savings for the packaging category based on various cost components that contribute to the total category spend, such as energy prices, material, and external uncertainties, e.g., GDP (Gross Domestic Product), PPI (Producer Price Index), Market Benchmarks etc.
+Our use case: Assuming you are a procurement manager at a manufacturing company in the automobile industry. You are responsible to source the needed materials for the production. This results into different costs items resulting from buying the good from the suppliers, as well as running a warehouse to store the materials and products. As part of your planning, you realize that the saving amount for the next planning period is not as high compared to the previous. As there are many factors that impacts the saving amount, you will use the simulation and optimization capabilities of Business Decision Simulator to estimate probabilities of possible future saving amount outcomes.
 
-In this hands-on workshop you will:
-- Learn how to ...
+With this use case you will learn the following in this session:
+- Explore data in SAP Analytics Cloud 
+- Use the simulation capabilities of Business Decision Simulator
+- Apply optimization action of Business Decision Simulator
 
 
 ## Requirements
@@ -19,22 +21,17 @@ Good news! For this exercise, there is no need to set up a complex environment. 
 - Any web browser
 - Access to this GitHub repository 
 - Access to SAP Analytics Cloud
-- (Optional) You might need to download a set of files from the GitHub site: .... Once downloaded to your local machine, please unzip the file.
 
 ## Exercises
-This session comprises of five exercises.
-After completing the series, you might be interested in learning more about the Business Decision Simulator in general.
 
-DISCLAIMER: The screens in the exercises might slightly differ from the screens you will see in the session. 
+In the following, the complete list of exercise steps are listed. The tasks build on each other, so please run through them in the given order.
+
+DISCLAIMER: The screenshots in the exercises might slightly differ from the screens you will see in the session. 
 
 - [Exercise 1 - Login to SAP Analytics Cloud and explore the data set](exercises/ex1/)
-    - [Exercise 1.1 - Login to SAP Analytics Cloud](exercises/ex1#exercise-11-login-to-sap-analytics-cloud)
-    - [Exercise 1.2 - Explore the data set](exercises/ex1#exercise-12-explore-the-data-set)
 - [Exercise 2 - Launch Business Decision Simulator and upload model](exercises/ex2/)
-    - [Exercise 2.1 - Upload or load the data model to Business Decision Simulator](exercises/ex2#exercise-21-upload-or-load-the-data-model-to-business-decision-simulator)
-    - [Exercise 2.2 - Create new node with link](exercises/ex2#exercise-22-create-new-node-with-link)
-- [Exercise 3 - Run simulation and readjust influencing parameters](exercises/ex3#exercise-3---run-simulation-and-readjust-influencing-parameters)
-- [Exercise 4 - Optimize outcome or compare outcomes](exercises/ex4#exercise-4---optimize-outcome-or-compare-outcomes)
+- [Exercise 3 - Add a new node and re-run simulation](exercises/ex3#exercise-3---run-simulation-and-readjust-influencing-parameters)
+- [Exercise 4 - Optimize outcome](exercises/ex4#exercise-4---optimize-outcome-or-compare-outcomes)
 - [Exercise 5 - Come back to SAP Analytics Cloud and compare the KPI](exercises/ex5#exercise-5----come-back-to-sap-analytics-cloud-and-compare-the-kpi)
 
 ## How to obtain support
