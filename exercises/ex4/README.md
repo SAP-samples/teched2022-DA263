@@ -7,10 +7,10 @@ After completing these steps you will have applied one optimization action to yo
 
 ## Exercise 4.1 Optimize outcome by evaluating the optimization actions
 
-1. Expand to the optimization action section see
+1. The system suggests various optimization actions based on optimizing variables that can be controlled. In comparison,  all factors on the left side are not controllable. Expand the optimization action section to view them
 ![](/exercises/ex4/images/ex4_1_1.png) //REPLACE
 
-1. Manipulate the factor.
+2. You can also manually manipulate the "New volume" influencer factor in optimization action 3, re-run the simulation and observe the outcome.
 ![](/exercises/ex4/images/ex4_1_1.png) //REPLACE
 
 ## Summary

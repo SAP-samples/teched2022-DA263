@@ -7,7 +7,7 @@ After completing these steps you will have extend the existing simulation model 
 
 ## Exercise 3.1 Create new node with link
 
-1. From the modelling view, navigate to the "Control" tab and create a new node labelled "GDP" of type "random_literal" with the min value 1.8 and max value 2.5, normally distributed.
+1. From the modelling view, navigate to the "Control" tab and create a new node labelled "GDP" of type "random_literal" with the min value 1.8 and max value 2.5, normally distributed.  If you want to know about GDP, read more [here](https://tradingeconomics.com/forecast/gdp-annual-growth-rate?continent=america). 
 ![](/exercises/ex3/images/ex3_1_1.png)
 
 2. Add a link from the new created node to node XXX with the relationship of XXX. //RESEARCH  WHAT MAKES SENSE.

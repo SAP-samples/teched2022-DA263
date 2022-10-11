@@ -24,6 +24,7 @@ After completing these steps you will have run several simulations and have the 
 is listed under "Models".
 ![](/exercises/ex2/images/ex2_1_4.png)
 
+3. The factors of "spend_data.xlsx" are modelled as a knowledge graph. The knowledge is used to compute probabilities of the scenarios. You can observe the model by zooming-in or you can select one node and see to which other node it is connected.
 
 ## Exercise 2.2 Change value of influencer and run simulations
 

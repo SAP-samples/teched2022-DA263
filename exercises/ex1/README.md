@@ -23,20 +23,20 @@ In this exercise, we will login to SAP Analytics Cloud to explore the data set o
 ## Exercise 1.2 Explore the data set //CLARIFY FILE NAMES, LOCATION
 
 
-1. Navigate to Files and open the file XXX.xlsx. 
+1. Let's have a look at the spend data and the PPI data. Therefore, navigate to Files and use the upload feature and select the downloaded files "spend_data.xlsx" and "Focused_CPI_PPI.xlsx" from the local computer. // Upload it into a specific folder?
 ![](/exercises/ex1/images/ex1_2_1.png)
-
->In case the data set is not uploaded already, please follow the following instructions:
->- Download the data set [here](data\PLACEHOLDER_data.xlsx).
->- Use the upload feature and select the downloaded file from the local computer.
-![](/exercises/ex1/images/ex1_2_3.png)
 ![](/exercises/ex1/images/ex1_2_4.png)
 
 
-2. Explore the data set. //MORE SPECIFIC?
+2. Explore the data sets one after the other. If you want to know about PPI, read more [here](https://tradingeconomics.com/forecast/producer-prices-change). //MORE SPECIFIC?
 ![](/exercises/ex1/images/ex1_2_2.png)
+![](/exercises/ex1/images/ex1_2_2_1.png)
 
-3. Navigate to XXX, and open the Business Decision Simulator via the embedded icon or via this [link](https://budesi-techedsac-da263.cfapps.eu12.hana.ondemand.com/).
+3. Based on the data. we created a SAP Analytics story. Either navigate to Stories and select "TechEd 2022" or jump directly there using this [link](https://techedsac-da263.us10.hcs.cloud.sap/sap/fpa/ui/tenants/1b796/app.html#/story&/s/A0801B024AA692EFFF8D37FE4409F891/?view_id=story&mode=view).
+![](/exercises/ex1/images/ex1_2_5.png) // STORY NAME?
+
+4. At the dashboard, you can see relevant KPIs, the data points in the chart and also a forecast. You can observe that the saving amount of 2022 is less compared to 2021. In parallel, the PPI has an increasing trend. Therefore, the forecasted saving amount for 2023 decreases further. To analyze the effect of the rising PPI on the saving amounts, you will will use the the Business Decision Simulation which is embedded on the second page on this story.
+
 
 ## Summary
 
