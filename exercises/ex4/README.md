@@ -7,11 +7,14 @@ After completing these steps you will have applied one optimization action to yo
 
 ## Exercise 4.1 Optimize outcome by evaluating the optimization actions
 
-1. The system suggests various optimization actions based on optimizing variables that can be controlled. In comparison,  all factors on the left side are not controllable. Expand the optimization action section to view them
-![](/exercises/ex4/images/ex4_1_1.png) //REPLACE
+1. The system suggests various optimization actions based on optimizing variables that can be controlled. In comparison, all factors on the left side are not controllable. Expand the optimization action section to view the following three optimization action:
+- Split New Volume to 50 Mio. and 50 Mio.
+- Split New Volume to 60 Mio. and 40 Mio.
+- Customized New Volume manually.
+![](/exercises/ex4/images/ex4_1_1.png) //REPLACE IMAGE
 
-2. You can also manually manipulate the "New volume" influencer factor in optimization action 3, re-run the simulation and observe the outcome.
-![](/exercises/ex4/images/ex4_1_1.png) //REPLACE
+2. Following optimization action 3, you can manually manipulate the "New volume" influencer factor. Re-run the simulation and observe the outcome.
+![](/exercises/ex4/images/ex4_1_1.png) //REPLACE IMAGE
 
 ## Summary
 

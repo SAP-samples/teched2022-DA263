@@ -7,7 +7,7 @@ This repository contains the material for the SAP TechEd 2022 session called DA2
 ## Overview
 This session allows you to experience how an interactive technique that combines Monte Carlo simulations with visualizations and machine guided inferences allows decision makers and planners to respond to uncertainty.
 
-Our use case: Assuming you are a procurement manager at a manufacturing company in the automobile industry. The company produces thermoplastic resin, a material that e.g. is used for bonding interim trim parts or as part of a composite material for example the battery housing or motor mounts in an electric vehicle. You are responsible to source the needed materials for the production. This results into different costs items resulting from buying the good from the suppliers, as well as running a warehouse to store the materials and products. As part of your planning, you realize that the saving amount for the next planning period is not as high compared to the previous. As there are many factors that impacts the saving amount, you will use the simulation and optimization capabilities of Business Decision Simulator to estimate probabilities of possible future saving amount outcomes.
+Our use case: Assuming you are a procurement manager at a manufacturing company. The company produces thermoplastic resin, a material that e.g. is used for bonding interim trim parts or as part of a composite material for example the battery housing or motor mounts in an electric vehicle. You are responsible to source the needed materials for the production. This results into different costs items resulting from buying the good from the suppliers, as well as running a warehouse to store the materials and products. As part of your planning, you realize that the saving amount for the next planning period is not as high compared to the previous.As there are many factors that impacts the saving amount, you will use the simulation and optimization capabilities of Business Decision Simulator to estimate probabilities of possible future saving amount outcomes.
 
 With this use case you will learn the following in this session:
 - Explore data in SAP Analytics Cloud 
@@ -30,9 +30,9 @@ DISCLAIMER: The screenshots in the exercises might slightly differ from the scre
 
 - [Exercise 1 - Login to SAP Analytics Cloud and explore the data set](exercises/ex1/)
 - [Exercise 2 - Launch Business Decision Simulator and upload model](exercises/ex2/)
-- [Exercise 3 - Add a new node and re-run simulation](exercises/ex3#exercise-3---run-simulation-and-readjust-influencing-parameters)
-- [Exercise 4 - Optimize outcome](exercises/ex4#exercise-4---optimize-outcome-or-compare-outcomes)
-- [Exercise 5 - Come back to SAP Analytics Cloud and compare the KPI](exercises/ex5#exercise-5----come-back-to-sap-analytics-cloud-and-compare-the-kpi)
+- [Exercise 3 - Add a new node and re-run simulation](exercises/ex3/)
+- [Exercise 4 - Optimize outcome](exercises/ex4/)
+- [Exercise 5 - Come back to SAP Analytics Cloud and compare the KPI](exercises/ex5/)
 
 ## How to obtain support
 
