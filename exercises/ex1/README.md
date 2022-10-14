@@ -20,23 +20,13 @@ In this exercise, you will logon to SAP Analytics Cloud to explore the data set 
 ![](/exercises/ex1/images/ex1_1_3.png)
 
 
-## Exercise 1.2 Explore the data set //CLARIFY FILE NAMES, LOCATION
+## Exercise 1.2 Analyze the data set
+
+1.  Let's have a look at the data of this use case in the SAP Analytics Cloud story [here](https://techedsac-da263.us10.hcs.cloud.sap/sap/fpa/ui/app.html#/story&/s/A0801B024AA692EFFF8D37FE4409F891/?mode=view). It was created based on the following [data](/data/).
+![](/exercises/ex1/images/ex1_2_5.png)
 
 
-1. Let's have a look at the spend data and the PPI data. Therefore, navigate to FILES and download the files "spend_data.xlsx" and "Focused_CPI_PPI.xlsx" to your the local computer. set. // DOUBLE-CHECK IF DATA FILES ARE CORRECT
-![](/exercises/ex1/images/ex1_2_1.png)
-
-
-
-2. Explore the data sets one after the other in Excel. Click [here](https://tradingeconomics.com/forecast/producer-prices-change) to find out more information about PPI. 
-![](/exercises/ex1/images/ex1_2_2.png)
-![](/exercises/ex1/images/ex1_2_2_1.png)
-
-3. Based on the data. we created a SAP Analytics Cloud story. Navigate to STORIES and select "TechEd 2022". 
-![](/exercises/ex1/images/ex1_2_6.png)
-
-
-4. At the dashboard, you can see relevant KPIs, a time series of the data and also a forecast. You can observe that the saving amount of 2022 is less compared to 2021. In parallel, the PPI has an increasing trend. Therefore, the forecasted saving amount for 2023 decreases further. To analyze the effect of the rising PPI on the saving amounts, you will will use the the Business Decision Simulation in the next exercise.
+2. Analyze the data by navigating between the different pages. Click [here](https://tradingeconomics.com/forecast/producer-prices-change) to find out more information about PPI. 
 ![](/exercises/ex1/images/ex1_2_5.png)
 
 

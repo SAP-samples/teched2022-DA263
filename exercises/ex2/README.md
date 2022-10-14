@@ -7,12 +7,12 @@ After completing these steps, you will have run several simulations and have the
 
 
 ## Exercise 2.1 Load the simulation model into Business Decision Simulator.
-1. Open Business Decision Simulator which is embedded in the fourth page of this SAP Analytics Cloud story. 
+1. Open Business Decision Simulator which is embedded in the fourth page of the SAP Analytics Cloud story. 
 
 2. Open the modelling view.
 ![](/exercises/ex2/images/ex2_1_1.png)
 
-3. Navigate to MODELS tab and load the simulation model "techEd_simulation_model".
+3. Navigate to MODELS tab and load the simulation model "techEd_simulation_model_XXX".
 ![](/exercises/ex2/images/ex2_1_2.png)
 
 
