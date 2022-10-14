@@ -11,9 +11,6 @@ Our use case: Assuming you are a procurement manager at a manufacturing company.
 
 ![](/images/use_case.png)
 
-
-
-
 With this use case you will learn the following in this session:
 - Explore data in SAP Analytics Cloud 
 - Use the simulation capabilities of Business Decision Simulator
@@ -33,7 +30,6 @@ In the following, the complete list of exercise steps are listed. The tasks buil
 
 DISCLAIMER: The screenshots in the exercises might slightly differ from the screens you will see in the session. 
 
-- [Getting started](exercises/ex0/)
 - [Exercise 1 - Login to SAP Analytics Cloud and explore the data set](exercises/ex1/)
 - [Exercise 2 - Launch Business Decision Simulator and upload model](exercises/ex2/)
 - [Exercise 3 - Add a new node and re-run simulation](exercises/ex3/)
