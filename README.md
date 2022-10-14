@@ -9,6 +9,11 @@ This session allows you to experience how an interactive technique that combines
 
 Our use case: Assuming you are a procurement manager at a manufacturing company. The company produces thermoplastic resin, a material that e.g. is used for bonding interim trim parts or as part of a composite material for example the battery housing or motor mounts in an electric vehicle. You are responsible to source the needed materials for the production. This results into different costs items resulting from buying the good from the suppliers, as well as running a warehouse to store the materials and products. As part of your planning, you realize that the saving amount for the next planning period is not as high compared to the previous.As there are many factors that impacts the saving amount, you will use the simulation and optimization capabilities of Business Decision Simulator to estimate probabilities of possible future saving amount outcomes.
 
+![](/images/use_case.png)
+
+
+
+
 With this use case you will learn the following in this session:
 - Explore data in SAP Analytics Cloud 
 - Use the simulation capabilities of Business Decision Simulator
@@ -28,11 +33,15 @@ In the following, the complete list of exercise steps are listed. The tasks buil
 
 DISCLAIMER: The screenshots in the exercises might slightly differ from the screens you will see in the session. 
 
+- [Getting started](exercises/ex0/)
 - [Exercise 1 - Login to SAP Analytics Cloud and explore the data set](exercises/ex1/)
 - [Exercise 2 - Launch Business Decision Simulator and upload model](exercises/ex2/)
 - [Exercise 3 - Add a new node and re-run simulation](exercises/ex3/)
 - [Exercise 4 - Optimize outcome](exercises/ex4/)
 - [Exercise 5 - Come back to SAP Analytics Cloud and compare the KPI](exercises/ex5/)
+
+![](/images/outline_exercises.png)
+
 
 ## How to obtain support
 
