@@ -5,11 +5,11 @@ Duration: approx. 10 minutes
 In this exercise, you will logon to SAP Analytics Cloud to explore the data set of our use case. After the exercise, you will have an understanding of the data set which will be used in this session.
 
 ## Exercise 1.1 Login to SAP Analytics Cloud
-1. Log on with your assigned user ID "DA263-XXX" in [SAP Analytics Cloud](https://tdcteched1.accounts.ondemand.com/saml2/idp/sso/tdcteched1.accounts.ondemand.com). 
+1. Log on with your assigned user ID "DA263-XXX" in [SAP Analytics Cloud](https://techedsac-da263.us10.hcs.cloud.sap/sap/fpa/ui/app.html#/home). 
 ![](/exercises/ex1/images/ex1_1_1.png)
 
 
-2. Enter the password which was shared, check the checkbox REMEMBER ME to enable a smooth flow during the session, and continue with log on.
+2. Enter the password "Acce$$teched22" which was shared, check the checkbox REMEMBER ME to enable a smooth flow during the session, and continue with log on.
 ![](/exercises/ex1/images/ex1_1_2.png)
 
 3. After logon you will see your profile, showing that your account is successfully activated.
