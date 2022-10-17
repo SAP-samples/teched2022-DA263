@@ -9,7 +9,7 @@ In this exercise, you will logon to SAP Analytics Cloud to explore the data set 
 ![](/exercises/ex1/images/ex1_1_1.png)
 
 
-2. Enter the password "Acce$$teched22" which was shared, check the checkbox REMEMBER ME to enable a smooth flow during the session, and continue with log on.
+2. Enter the password "Acce$$teched22", check the checkbox REMEMBER ME to enable a smooth flow during the session, and continue with log on.
 ![](/exercises/ex1/images/ex1_1_2.png)
 
 3. After logon you will see your profile, showing that your account is successfully activated.

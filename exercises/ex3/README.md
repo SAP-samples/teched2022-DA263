@@ -20,6 +20,6 @@ In this exercise, you will add a new influencer factor to the simulation model w
 
 ## Summary
 
-You've now have included a new uncertainty to the simulation model. 
+You've now included a new uncertainty to the simulation model. 
 
 Continue to - [Exercise 4 - Optimize outcome or compare outcomes](../ex4/README.md)

@@ -12,7 +12,7 @@ After completing these steps, you will have run several simulations and have the
 2. Open the modelling view.
 ![](/exercises/ex2/images/ex2_1_1.png)
 
-3. Navigate to MODELS tab and load the simulation model "techEd_simulation_model_XXX".
+3. Navigate to MODELS tab and load the simulation model "techEd_simulation_model".
 ![](/exercises/ex2/images/ex2_1_2.png)
 
 
@@ -22,7 +22,7 @@ After completing these steps, you will have run several simulations and have the
 ![](/exercises/ex2/images/ex2_1_3.png)
 > - Navigate to the downloaded file on your local environment and open file to upload.
 ![](/exercises/ex2/images/ex2_1_5.png)
-> - Name the simulation model "techEd_simulation_model_DA263-XXX" and save it. The simulation model is successfully imported when it is listed under MODELS.
+> - Name the simulation model "DA263-XXX" and save it. The simulation model is successfully imported when it is listed under MODELS.
 ![](/exercises/ex2/images/ex2_1_4.png)
 
 4. You see that the factors of "spend_data.xlsx" and "Focused_CPI_PPI.xlsx" are modelled as a knowledge graph. The knowledge is used to compute the probabilities of the scenarios. You can observe the simulation model by 
