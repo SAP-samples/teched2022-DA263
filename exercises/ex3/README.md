@@ -12,7 +12,7 @@ In this exercise, you will add a new influencer factor to the simulation model w
 2. Add a link from the new created node to node PLANT/CAPITAL COST with the relationship of MULTIPLY. // DOES THE RELATION MAKE SENSE? 
 ![](/exercises/ex3/images/ex3_1_2.png) //REPLACE IMAGE
 
-3. Name the adjusted model model like your user ID "DA263-XXX"" and save it.
+3. Save the adjusted model model.
 ![](/exercises/ex3/images/ex3_1_3.png) // REPLACE IMAGE
 
 4. You can now see GDP as influencer. Re-run the simulation to include the factor into the outcomes.
