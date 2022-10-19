@@ -7,12 +7,12 @@ After completing these steps, you will have run several simulations and have the
 
 
 ## Exercise 2.1 Load the simulation model into Business Decision Simulator.
-1. Open Business Decision Simulator which is embedded in the fourth page of the SAP Analytics Cloud story. 
+1. You can launch the Business Decision Simulator either by navigating to the fourth page as it is embedded in SAP Analytics Cloud. But we recommend to launch the Business Decision Simulator [(Link)](/https://budesi-techedsac-da263.cfapps.eu12.hana.ondemand.com/) in a new tab due to caching issues.
 
 2. Open the modelling view.
 ![](/exercises/ex2/images/ex2_1_1.png)
 
-3. Navigate to MODELS tab and load the simulation model "techEd_simulation_model_XXX".
+3. Navigate to MODELS tab and load the simulation model "spend_simulation_model".
 ![](/exercises/ex2/images/ex2_1_2.png)
 
 4. Change the name of the simulation model according to you user ID "DA263-XXX", where XXX should be your specific number and save the simulation model.
@@ -20,7 +20,7 @@ After completing these steps, you will have run several simulations and have the
 
 
 > In case, the simulation model is not imported in the system, please follow the instructions below to upload it manually. 
-> - Download the simulation model [here](/data/techEd_simulation_model.json).
+> - Download the simulation model [here](/data/spend_simulation_model.json.json).
 > - In the modelling view, navigate to MODELS tab and use the import functionality
 ![](/exercises/ex2/images/ex2_1_3.png)
 > - Navigate to the downloaded file on your local environment and open file to upload.
