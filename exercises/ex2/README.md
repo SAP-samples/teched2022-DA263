@@ -7,7 +7,7 @@ After completing these steps, you will have run several simulations and have the
 
 
 ## Exercise 2.1 Load the simulation model into Business Decision Simulator.
-1. You can launch the Business Decision Simulator either by navigating to the fourth page as it is embedded in SAP Analytics Cloud. But we recommend to launch the Business Decision Simulator [(Link)](/https://budesi-techedsac-da263.cfapps.eu12.hana.ondemand.com/) in a new tab due to caching issues.
+1. You can launch the Business Decision Simulator either by navigating to the fourth page as it is embedded in SAP Analytics Cloud. But we recommend to launch the Business Decision Simulator [(Link)](https://budesi-techedsac-da263.cfapps.eu12.hana.ondemand.com/) in a new tab due to caching issues.
 
 2. Open the modelling view.
 ![](/exercises/ex2/images/ex2_1_1.png)
@@ -20,7 +20,7 @@ After completing these steps, you will have run several simulations and have the
 
 
 > In case, the simulation model is not imported in the system, please follow the instructions below to upload it manually. 
-> - Download the simulation model [here](/data/spend_simulation_model.json.json).
+> - Download the simulation model [here](/data/spend_simulation_model.json).
 > - In the modelling view, navigate to MODELS tab and use the import functionality
 ![](/exercises/ex2/images/ex2_1_3.png)
 > - Navigate to the downloaded file on your local environment and open file to upload.
@@ -35,10 +35,10 @@ After completing these steps, you will have run several simulations and have the
 
 ## Exercise 2.2 Change value of influencer and run simulations
 
-1. Adjust the lower range of the BASE RESIN - PPI COEFFICIENT influencer to 0.3.
+1. For example, use the BASE RESIN - PPI COEFFICIENT and adjust the lower range of the influencer to 0.3.
 ![](/exercises/ex2/images/ex2_2_1.png)
 
-2. Make sure SAVINGS AMOUNT is selected as out variable and run the simulation.
+2. Make sure SAVINGS AMOUNT is selected as output variable and run the simulation.
 ![](/exercises/ex2/images/ex2_2_2.png)
 
 
