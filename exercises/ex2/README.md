@@ -38,7 +38,7 @@ After completing these steps, you will have run several simulations and have the
 1. Adjust the lower range of the BASE RESIN - PPI COEFFICIENT influencer to 0.3.
 ![](/exercises/ex2/images/ex2_2_1.png)
 
-2. Run the simulation.
+2. Make sure SAVINGS AMOUNT is selected as out variable and run the simulation.
 ![](/exercises/ex2/images/ex2_2_2.png)
 
 

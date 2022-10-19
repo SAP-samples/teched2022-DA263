@@ -6,17 +6,31 @@ In this exercise, you will add a new influencer factor to the simulation model w
 
 ## Exercise 3.1 Create new node with link
 
-1. From the modelling view, navigate to the CONTROL tab and create a new node labelled "GDP" of type "random_literal" with the min value equal "1.8" and max value equal "2.5", normally distributed. Click [here](https://tradingeconomics.com/forecast/gdp-annual-growth-rate?continent=america) to find out more information about GDP.
+1. From the modelling view, navigate to the CONTROL tab and add a new node labelled "Interest Rate" of type "range value" with the min value equal "0.025" and max value equal "0.0325", normally distributed. Click [here](https://tradingeconomics.com/united-states/interest-rate) to find out more information about interest rates.
 ![](/exercises/ex3/images/ex3_1_1.png)
 
-2. Add a link from the new created node to node PLANT/CAPITAL COST with the relationship of MULTIPLY. // DOES THE RELATION MAKE SENSE? 
-![](/exercises/ex3/images/ex3_1_2.png) //REPLACE IMAGE
+2. As we added a new uncertainty, we need to update some existing nodes to ensure the interest rate will be included into the simulations. In the CONTROL tab, choose UPDATE NODE to update the INTERIM node. It should be of type MULTIPLICATION and has edges to ACTUAL PLANT/ CAPITAL COST and INTEREST RATE.
+![](/exercises/ex3/images/ex3_1_2.png) 
 
-3. Save the adjusted model model.
-![](/exercises/ex3/images/ex3_1_3.png) // REPLACE IMAGE
+3. Next, update the CAPITAL/ FIXED COST node by changing the dividend to PLANT/ CAPITAL COST.
+![](/exercises/ex3/images/ex3_1_3.png) 
 
-4. You can now see GDP as influencer. Re-run the simulation to include the factor into the outcomes.
-![](/exercises/ex3/images/ex3_1_4.png) // REPLACE IMAGE
+3. Save the adjusted simulation model.
+![](/exercises/ex3/images/ex3_1_4.png) 
+
+4. You can now see interest rate as influencer on the left side. Re-run the simulation to include the factor into the outcomes.
+![](/exercises/ex3/images/ex3_1_5.png) 
+
+
+> In case, the simulation model is not imported in the system, please follow the instructions below to upload it manually. 
+> - Download the simulation model [here]().
+> - In the modelling view, navigate to MODELS tab and use the import functionality
+![](/exercises/ex2/images/ex2_1_3.png)
+> - Navigate to the downloaded file on your local environment and open file to upload.
+![](/exercises/ex2/images/ex2_1_5.png)
+> - Name the simulation model "DA263-XXX" and save it. The simulation model is successfully imported when it is listed under MODELS.
+![](/exercises/ex2/images/ex2_1_4.png)
+
 
 ## Summary
 
