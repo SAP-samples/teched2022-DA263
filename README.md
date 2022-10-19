@@ -20,9 +20,9 @@ With this use case you will learn the following in this session:
 ## Requirements
 Good news! For this exercise, there is no need to set up a complex environment. You just need: 
 
-- Any web browser
+- Google Chrome (already included on the client)
 - Access to this GitHub repository 
-- Access to SAP Analytics Cloud
+- Access to SAP Analytics Cloud (see the user access section below)
 
 ## Exercises
 
