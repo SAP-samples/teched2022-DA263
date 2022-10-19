@@ -2,18 +2,15 @@
 
 Duration: approx. 15 minutes
 
-In this exercise, you will add a new influencer factor to the simulation model which should be considered in the simulations as well. After completing these steps, you will have extend the existing simulation model with a new node linked to an existing node and re-run the simulation.
+In this exercise, you will add a new influencer factor to the simulation model which should be considered in the calculations as well. After completing these steps, you will have extended the existing simulation model with a new node linked to an existing node and re-run the simulation to see effect from emerging uncertainties.
 
 ## Exercise 3.1 Create new node with link
 
 1. From the modelling view, navigate to the CONTROL tab and add a new node labelled "Interest Rate" of type "range value" with the min value equal "0.025" and max value equal "0.0325", normally distributed. Click [here](https://tradingeconomics.com/united-states/interest-rate) to find out more information about interest rates.
 ![](/exercises/ex3/images/ex3_1_1.png)
 
-2. As we added a new uncertainty, we need to update some existing nodes to ensure the interest rate will be included into the simulations. In the CONTROL tab, choose UPDATE NODE to update the INTERIM node. It should be of type MULTIPLICATION and has edges to ACTUAL PLANT/ CAPITAL COST and INTEREST RATE.
+2. As we added a new uncertainty, we need to update some existing nodes to ensure the interest rate will be included into the simulations. In the CONTROL tab, choose UPDATE NODE to update the INTERIM node. It should be of type MULTIPLICATION and now has edges to ACTUAL PLANT/ CAPITAL COST and INTEREST RATE.
 ![](/exercises/ex3/images/ex3_1_2.png) 
-
-3. Next, update the CAPITAL/ FIXED COST node by changing the dividend to PLANT/ CAPITAL COST.
-![](/exercises/ex3/images/ex3_1_3.png) 
 
 3. Save the adjusted simulation model.
 ![](/exercises/ex3/images/ex3_1_4.png) 
@@ -34,6 +31,6 @@ In this exercise, you will add a new influencer factor to the simulation model w
 
 ## Summary
 
-You've now included a new uncertainty to the simulation model. 
+You've now included a new uncertainty to the simulation model to understand the impact and to accordingly prepare for the response. 
 
 Continue to - [Exercise 4 - Optimize outcome or compare outcomes](../ex4/README.md)
