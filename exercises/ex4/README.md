@@ -13,7 +13,7 @@ After completing these steps you will have applied one optimization action to yo
 - Simulate the expected Saving Amount Manually by adjusting Volume
 ![](/exercises/ex4/images/ex4_1_1.png)
 
-2. Following optimization action 3, you can manually manipulate the "New volume" influencer factor. Re-run the simulation and observe the outcome.
+2. Following optimization action 3, you can manually manipulate the "Volume" influencer factor. Re-run the simulation and observe the outcome.
 ![](/exercises/ex4/images/ex4_1_2.png)
 
 ## Summary
