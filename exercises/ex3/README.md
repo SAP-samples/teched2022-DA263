@@ -23,8 +23,8 @@ In this exercise, you will add a new influencer factor to the simulation model w
 > - Download the simulation model [here](/data/spend_simulation_model_interest_rate.json).
 > - In the modelling view, navigate to MODELS tab and use the import functionality
 ![](/exercises/ex2/images/ex2_1_3.png)
-> - Navigate to the downloaded file on your local environment and open file to upload.
-![](/exercises/ex2/images/ex2_1_5.png)
+> - Navigate to the downloaded file "spend_simulation_model_interest_rate" on your local environment and open file to upload.
+![](/exercises/ex3/images/ex3_1_6.png)
 > - Name the simulation model according to your user ID "DA263-XXX" and save it. The simulation model is successfully imported when it is listed under MODELS.
 ![](/exercises/ex2/images/ex2_1_4.png)
 
