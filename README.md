@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-DA263)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-DA263)
+
 # DA263 - Interactive Stochastic Simulations for Exploring and Adapting to Uncertainty (Business Decision Simulator)
 
 ## Description
